@@ -2,7 +2,8 @@
 👀 Looking for my next role  
 🔭 I’m currently working on [The Cloud Resume Challenge](https://cloudresumechallenge.dev/docs/the-challenge/aws/)  
 🤔 Thinking out loud at [asasmith.dev](https://asasmith.dev/) (probably being rebuilt again)  
-🌱 Occasionally learning Go
+🌱 Occasionally learning Go  
+🧹Maybe deleting some of these repos...
 
 <!--
 **asasmith/asasmith** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
